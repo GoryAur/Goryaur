@@ -1,7 +1,38 @@
-<h1 align="center">Gregory (Gory) Urdaneta</h1>
-<p align="center">
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨, I'm Gregory <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+</h2>
 
-<a href="https://twitter.com/GoryAur"><img src="https://img.shields.io/twitter/url?label=Follow%20%40GoryAur&style=social&url=https%3A%2F%2Ftwitter.com%2FGoryAur" height="100%" alt="Twitter Follow: @GoryAur" /></a>
-<a href="https://www.linkedin.com/in/goryaur/"><img src="https://img.shields.io/twitter/url?label=goryaur%20%28in%29&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgoryaur%2F" height="100%" alt="Twitter Follow: @GoryAur" /></a>
+<div align="center" width="50">
 
-</p>
+ <img src="./gifs/giphy.gif" width="250px">
+
+</div>
+
+</div>
+
+<div align="center">
+
+Welcome to my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+or <a href="gory.aur@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😎
+
+</div>
+
+<div align="center">
+
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+---
+
+<i>You can find me here too:</i><br>
+
+<a href="https://www.linkedin.com/in/goryaur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/gory.aur" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/goryaur" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+</div>
