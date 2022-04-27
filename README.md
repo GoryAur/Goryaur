@@ -1,10 +1,9 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨, I'm Gregory <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, I'm Gregory!</h2>
 
 <div align="center" width="50">
 
- <img src="./gifs/giphy.gif" width="250px">
+ <img src="./gifs/giphy.gif" height="200" width="400px">
 
 </div>
 
